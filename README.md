@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> 
 
 <br />
 
@@ -6,10 +6,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+<!--  - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+<!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub  
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
@@ -43,4 +43,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+</a>  -->
