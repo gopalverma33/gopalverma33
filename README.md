@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web development to build modern, responsive websites and applications professionally.**
 
-- 🔭 I’m currently pursuing B.Tech 3rd from year **Medicaps University**
+- 🔭 I’m currently pursuing B.Tech 3rd year from **Medicaps University**
 
 - 🤝 I’m looking for help with [Internship](web development)
 
