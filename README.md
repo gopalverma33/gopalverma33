@@ -34,13 +34,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&show_icons=true&locale=en&layout=compact" alt="gopalverma33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalverma33&show_icons=true&locale=en" alt="gopalverma33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalverma33&" alt="gopalverma33" /></p>
-<p><img align="center" [![Top Langs]( src ="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&layout=compact&show_icons=true&locale=en")]
-" /></p>
+
 
 
 
