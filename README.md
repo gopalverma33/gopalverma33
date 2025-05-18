@@ -31,33 +31,11 @@
 
 <p><img align="center" [![Top Langs]( src ="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&layout=compact&show_icons=true&locale=en")]
 " /></p>
-<!-- GitHub Stats -->
-<p>
-  <a href="https://github.com/gopalverma33">
-    <img src="https://github-readme-stats.vercel.app/api?username=gopalverma33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-</p>
 
-<!-- Top Languages -->
-<p>
-  <a href="https://github.com/gopalverma33">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
 
-<!-- GitHub Streak -->
-<p>
-  <a href="https://github.com/gopalverma33">
-    <img src="https://streak-stats.demolab.com?user=gopalverma33&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
 
-<!-- GitHub Profile Trophy -->
-<p>
-  <a href="https://github.com/gopalverma33">
-    <img src="https://github-profile-trophy.vercel.app/?username=gopalverma33&theme=tokyonight" alt="Trophies" />
-  </a>
-</p>
+
+
 
 <!-- GitHub Contribution Snake (animated) -->
 <p>
