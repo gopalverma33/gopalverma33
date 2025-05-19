@@ -29,8 +29,12 @@
 
 
 
-<p><img align="center" [![Top Langs]( src ="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&layout=compact&show_icons=true&locale=en")]
-" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalverma33&layout=compact&show_icons=true&locale=en" 
+    alt="Top Languages"
+  />
+</p>
 
 
 
