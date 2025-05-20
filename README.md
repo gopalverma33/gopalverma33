@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopal Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalverma33&label=Profile%20views&color=0e75b6&style=flat" alt="gopalverma33" /> </p>
 
@@ -39,7 +39,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopalverma33&show_icons=true&locale=en" alt="gopalverma33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalverma33&" alt="gopalverma33" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gopalverma33&theme=react&hide_border=true" 
+    alt="gopalverma33" 
+  />
+</p>
+
 
 
 
