@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **NotesIn – a Learning & Notes Platform**
 - 🌱 Learning **advanced full-stack development** to build scalable, production-ready applications
-- 🎓 **B.Tech (3rd Year)** student at **Medi-Caps University**
+- 🎓 **B.Tech CSE (Final Year)** student at **Medi-Caps University**
 - 🤝 Actively looking for **Web / Full-Stack Development Internship**
 - 📫 Reach me at **gpverma869@gmail.com**
 - ⚡ Fun fact: *I turn ideas into real, working web applications.*
@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/gopal-verma/" target="_blank">
+  <a href="https://www.linkedin.com/in/gopal-verma-955531339/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/gopalverrma/" target="_blank">
